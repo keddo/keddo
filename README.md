@@ -1,6 +1,6 @@
 ### Hi there, I'm Kedir  👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Developer, and Teacher!
 - 🔭 I’m currently a student at [microverse][https://www.microverse.org/]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and content creators
@@ -13,7 +13,7 @@
 [<img align="left" alt="Kedir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com)
 [<img align="left" alt="Kedir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kedirman)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/kedirabdurahman/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/kedir.a.a/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kedir.a.a/)
 
 <br />
 
@@ -34,14 +34,8 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
 <br />
 <br />
-
----
-
----
----
 
 <img align="left" alt="Kedir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keddo&show_icons=true&hide_border=true" />
 
