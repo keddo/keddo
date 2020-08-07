@@ -1,7 +1,7 @@
 ### Hi there, I'm Kedir  👋
 
 ## I'm a Developer, and Teacher!
-- 🔭 I’m currently a student at [microverse][https://www.microverse.org/]!
+- 🔭 I’m currently a student at [microverse](https://www.microverse.org/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
