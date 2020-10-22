@@ -18,8 +18,4 @@
 <br />
 <br />
 <img align="left" alt="Kedir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keddo&show_icons=true&hide_border=true&theme=algolia" />
-<br/>
-[twitter]: https://twitter.com/kedirman
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/kedir.a.a/
-[linkedin]: https://linkedin.com/in/kedirabdurahman/
+
