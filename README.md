@@ -2,6 +2,7 @@
 
 ## I'm a Developer, and Teacher!
 - 🔭 I’m currently a student at [microverse](https://www.microverse.org/)!
+- 🔭 I’m currently a student at [ALX SE](https://www.alxafrica.com/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
