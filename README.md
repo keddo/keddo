@@ -1,7 +1,8 @@
 ### Hi there, I'm Kedir  👋
 
 ## I'm a Developer, and Teacher!
-- 🔭 I’m currently a student at [microverse](https://www.microverse.org/)!
+- 🔭 I'm currently student at [ALX](https://www.alxafrica.com/)!
+- 🔭 I studied for 6 months at [microverse](https://www.microverse.org/)!
 - 🔭 I’m currently a student at [ALX SE](https://www.alxafrica.com/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and content creators
