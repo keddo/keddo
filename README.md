@@ -1,12 +1,13 @@
-### Hi there, I'm Kedir  👋
-
-## I'm a Developer, and Instructor!
-- 🔭 I’m Graduated as Fullstack Engineer from [ALX SE](https://www.alxafrica.com/)!
-- 🔭 I studied for 6 months at [microverse](https://www.microverse.org/)!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers and content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love workout / travel
+Hello there, I'm Kedir! 👋
+About Me
+🎓 Fullstack Engineer graduate from ALX Software Engineering School.
+💻 Studied intensively for 6 months at Microverse.
+🌱 Always eager to expand my knowledge and skills in the realm of software development.
+👯 Open to collaborating with fellow developers and content creators.
+🥅 2024 Goals:
+   - Contribute significantly to at least three Open Source projects.
+   - Master a new programming language or technology relevant to full-stack development.
+⚡ Fun Fact: I'm passionate about fitness and exploring new destinations through travel.
 
 ### Connect with me:
 
