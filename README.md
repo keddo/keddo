@@ -7,10 +7,13 @@ About Me
 💻 Studied intensively for 6 months at Microverse.
 
 🌱 Always eager to expand my knowledge and skills in the realm of software development.
+
 👯 Open to collaborating with fellow developers and content creators.
+
 🥅 2024 Goals:
    - Contribute significantly to at least three Open Source projects.
    - Master a new programming language or technology relevant to full-stack development.
+
 ⚡ Fun Fact: I'm passionate about fitness and exploring new destinations through travel.
 
 ### Connect with me:
