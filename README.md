@@ -1,7 +1,11 @@
 Hello there, I'm Kedir! 👋
+
 About Me
+
 🎓 Fullstack Engineer graduate from ALX Software Engineering School.
+
 💻 Studied intensively for 6 months at Microverse.
+
 🌱 Always eager to expand my knowledge and skills in the realm of software development.
 👯 Open to collaborating with fellow developers and content creators.
 🥅 2024 Goals:
